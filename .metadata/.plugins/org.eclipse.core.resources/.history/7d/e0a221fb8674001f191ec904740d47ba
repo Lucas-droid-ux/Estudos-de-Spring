@@ -1,0 +1,13 @@
+package dominio;
+
+public class Pessoa {
+
+	private Integer id;
+	private String Name;
+	private String Email;
+	
+	public Pessoa() {
+	}
+	
+	
+}
