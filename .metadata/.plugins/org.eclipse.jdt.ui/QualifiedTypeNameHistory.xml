@@ -25,7 +25,6 @@
     <fullyQualifiedTypeName name="org.hibernate.annotations.ManyToAny"/>
     <fullyQualifiedTypeName name="jakarta.persistence.JoinColumn"/>
     <fullyQualifiedTypeName name="jakarta.persistence.OneToMany"/>
-    <fullyQualifiedTypeName name="com.educandoweb.course.entities.Order"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat"/>
     <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonFormat.Shape"/>
     <fullyQualifiedTypeName name="java.lang.IllegalArgumentException"/>
@@ -34,4 +33,5 @@
     <fullyQualifiedTypeName name="java.util.Set"/>
     <fullyQualifiedTypeName name="com.educandoweb.course.repositories.ProductRepository"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Transient"/>
+    <fullyQualifiedTypeName name="com.educandoweb.course.entities.Order"/>
 </qualifiedTypeNameHistroy>
